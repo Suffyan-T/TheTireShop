@@ -1,0 +1,29 @@
+.callback_form{
+	text-align: center;
+	padding: 3em 2.5em 1.8em;
+}
+
+.callback_form h1, .callback_form h2,
+.callback_form h3, .callback_form h4,
+.callback_form h5, .callback_form h6{
+	margin-top: 0;
+	margin-bottom: 0.25em;
+}
+
+.callback_form p{
+	margin-bottom: 2.2em;
+}
+
+.callback_form input[type="text"],
+.callback_form input[type="tel"]{
+	width: 100%;
+}
+
+.callback_form .callback_form_description{
+	margin-bottom: 3em;
+}
+
+.callback_form input[type="submit"]{
+	line-height: 1em;
+	padding: 1.35em 1.75em 1.4em;
+}

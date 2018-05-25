@@ -1,0 +1,10 @@
+v1.1.1
+Styles improved
+Essential Grid improved 
+
+Version 1.1 
+Documentation updated 
+Plugins updated 
+Dummy data import fixed
+
+Release - v.1.0
